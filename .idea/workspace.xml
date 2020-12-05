@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6bc5bfbe-c24a-4892-b7c0-7cc506f6a562" name="Default Changelist" comment="shualeduri2">
+      <change afterPath="$PROJECT_DIR$/class(1)/class/.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class(1)/class/.env.example" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class(1)/class/.gitattributes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class(1)/class/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class(1)/class/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class(1)/class/.idea/class.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class(1)/class/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class(1)/class/.idea/commandlinetools/Laravel_12_3_20__7_14_PM.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class(1)/class/.idea/commandlinetools/schemas/frameworkDescriptionVersion1.1.4.xsd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class(1)/class/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class(1)/class/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class(1)/class/.idea/php.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class(1)/class/.idea/phpunit.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class(1)/class/.styleci.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class(1)/class/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class(1)/class/app/Console/Kernel.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class(1)/class/app/Exceptions/Handler.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class(1)/class/app/Http/Controllers/Auth/ConfirmPasswordController.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class(1)/class/app/Http/Controllers/Auth/ForgotPasswordController.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class(1)/class/app/Http/Controllers/Auth/LoginController.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class(1)/class/app/Http/Controllers/Auth/RegisterController.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class(1)/class/app/Http/Controllers/Auth/ResetPasswordController.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class(1)/class/app/Http/Controllers/Auth/VerificationController.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class(1)/class/app/Http/Controllers/Controller.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class(1)/class/app/Http/Controllers/HomeController.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class(1)/class/app/Http/Kernel.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class(1)/class/app/Http/Middleware/Authenticate.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class(1)/class/app/Http/Middleware/EncryptCookies.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class(1)/class/app/Http/Middleware/PreventRequestsDuringMaintenance.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class(1)/class/app/Http/Middleware/RedirectIfAuthenticated.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class(1)/class/app/Http/Middleware/TrimStrings.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class(1)/class/app/Http/Middleware/TrustHosts.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class(1)/class/app/Http/Middleware/TrustProxies.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class(1)/class/app/Http/Middleware/VerifyCsrfToken.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class(1)/class/app/Models/Lecture.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class(1)/class/app/Models/User.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class(1)/class/app/Providers/AppServiceProvider.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class(1)/class/app/Providers/AuthServiceProvider.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class(1)/class/app/Providers/BroadcastServiceProvider.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class(1)/class/app/Providers/EventServiceProvider.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class(1)/class/app/Providers/RouteServiceProvider.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class(1)/class/artisan" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class(1)/class/bootstrap/app.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class(1)/class/bootstrap/cache/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class(1)/class/composer.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class(1)/class/composer.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class(1)/class/config/app.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class(1)/class/config/auth.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class(1)/class/config/broadcasting.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class(1)/class/config/cache.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class(1)/class/config/cors.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class(1)/class/config/database.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class(1)/class/config/filesystems.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class(1)/class/config/hashing.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class(1)/class/config/logging.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class(1)/class/config/mail.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class(1)/class/config/queue.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class(1)/class/config/services.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class(1)/class/config/session.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class(1)/class/config/view.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class(1)/class/database/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class(1)/class/database/factories/UserFactory.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class(1)/class/database/migrations/2014_10_12_000000_create_users_table.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class(1)/class/database/migrations/2014_10_12_100000_create_password_resets_table.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class(1)/class/database/migrations/2019_08_19_000000_create_failed_jobs_table.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class(1)/class/database/migrations/2020_12_04_161455_create_lectures_table.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class(1)/class/database/migrations/2020_12_04_162834_create_lecture_user_table.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class(1)/class/database/seeders/DatabaseSeeder.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class(1)/class/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class(1)/class/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class(1)/class/phpunit.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class(1)/class/public/.htaccess" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class(1)/class/public/css/app.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class(1)/class/public/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class(1)/class/public/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class(1)/class/public/js/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class(1)/class/public/mix-manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class(1)/class/public/robots.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class(1)/class/public/web.config" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class(1)/class/resources/css/app.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class(1)/class/resources/js/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class(1)/class/resources/js/bootstrap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class(1)/class/resources/js/components/ExampleComponent.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class(1)/class/resources/lang/en/auth.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class(1)/class/resources/lang/en/pagination.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class(1)/class/resources/lang/en/passwords.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class(1)/class/resources/lang/en/validation.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class(1)/class/resources/sass/_variables.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class(1)/class/resources/sass/app.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class(1)/class/resources/views/auth/login.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class(1)/class/resources/views/auth/passwords/confirm.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class(1)/class/resources/views/auth/passwords/email.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class(1)/class/resources/views/auth/passwords/reset.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class(1)/class/resources/views/auth/register.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class(1)/class/resources/views/auth/verify.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class(1)/class/resources/views/class.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class(1)/class/resources/views/classes.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class(1)/class/resources/views/index.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class(1)/class/resources/views/layouts/app.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class(1)/class/resources/views/my_classes.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class(1)/class/resources/views/student.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class(1)/class/resources/views/students.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class(1)/class/resources/views/welcome.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class(1)/class/routes/api.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class(1)/class/routes/channels.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class(1)/class/routes/console.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class(1)/class/routes/web.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class(1)/class/server.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class(1)/class/storage/app/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class(1)/class/storage/app/public/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class(1)/class/storage/framework/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class(1)/class/storage/framework/cache/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class(1)/class/storage/framework/cache/data/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class(1)/class/storage/framework/sessions/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class(1)/class/storage/framework/testing/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class(1)/class/storage/framework/views/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class(1)/class/storage/logs/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class(1)/class/tests/CreatesApplication.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class(1)/class/tests/Feature/ExampleTest.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class(1)/class/tests/TestCase.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class(1)/class/tests/Unit/ExampleTest.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class(1)/class/webpack.mix.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1lFH5W0K181ar8ymvopAcxCDuII" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Tura" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6bc5bfbe-c24a-4892-b7c0-7cc506f6a562" name="Default Changelist" comment="" />
+      <created>1607185736477</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1607185736477</updated>
+      <workItem from="1607185737973" duration="406000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="shualeduri2" />
+    <option name="LAST_COMMIT_MESSAGE" value="shualeduri2" />
+  </component>
+</project>
